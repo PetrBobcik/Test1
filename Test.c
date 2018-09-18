@@ -7,4 +7,4 @@ int main(){
         printf("cislo %d\n", i);
     }
     return 0;
-}
+}z
